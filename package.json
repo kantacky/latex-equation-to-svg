@@ -1,5 +1,5 @@
 {
-  "name": "tex-math-svg",
+  "name": "latex-equation-to-svg",
   "version": "0.1.0",
   "private": true,
   "scripts": {
