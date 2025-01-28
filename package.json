@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "mathjax-node": "^2.1.1",
+    "@tailwindcss/postcss": "^4.0.0",
     "next": "15.1.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tex-to-svg": "^0.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
